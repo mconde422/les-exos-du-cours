@@ -1,5 +1,5 @@
 ## Les-exos-du-cours
-*Description:* Dans ce repository s'y figure tous les exercices sur de la formation du codage traditionnel avec le html et css au framework tailwindcss & bootstrap
+*Description:* Dans ce repository s'y figure tous les exercices sur la formation du codage traditionnel avec le html et css au framework tailwindcss & bootstrap
 
 ## html css (html: div; main; section; input / css: display(flex))
 *Exo 1* : reproduction de la page de connexion de facebook, j'ai aussi ajouter la page de connexion et d'inscription de google et un au site.  
