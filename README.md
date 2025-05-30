@@ -22,7 +22,7 @@
 
 *Exo 5* : Portfolio  
 
-<img src="/exo_mardi_27-5/exo_1_css/rendu/p_inscription.png" alt="dd" width="500" heigth="300" />  
+<img src="/exo_mardi_27-5/exo_2_css/rendu/portfulio.png" alt="dd" width="500" heigth="300" />  
 
 ## tailwind_css (les utilitaires: m; p; text; flex; justify-*; w; p)
 
