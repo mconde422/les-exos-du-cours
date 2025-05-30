@@ -2,7 +2,8 @@
 *Description:* Dans ce repository s'y figure tous les exercices sur de la formation du codage traditionnel avec le html et css au framework tailwindcss & bootstrap
 
 ## html css
-*Exo 1* : reproduction de la page de connexion de facebook, j'ai aussi ajouter la page de connexion et d'inscription de google et un au site.
+*Exo 1* : reproduction de la page de connexion de facebook, j'ai aussi ajouter la page de connexion et d'inscription de google et un au site.  
+
 <img src="/exo_jeudi_22-5/Rendus/facebook.png" alt="dd" width="300" heigth="200" />
 <img src="/exo_jeudi_22-5/Rendus/pcm2.png" alt="dd" width="300" heigth="200" />
 <img src="/exo_jeudi_22-5/Rendus/pcm3.png" alt="dd" width="300" heigth="200" />
